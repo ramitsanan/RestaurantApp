@@ -2,8 +2,8 @@
 
 To run,
 
-#simply open terminal and type nodemon. 
+#simply open terminal and cd to assessment_copy folder.
 
-#Hit enter. 
+#Enter nodemon and hit enter. 
 
 #Open browser: http://localhost:3000
